@@ -1,0 +1,15 @@
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\bin\Debug\net6.0\cmethod.exe
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\bin\Debug\net6.0\cmethod.deps.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\bin\Debug\net6.0\cmethod.runtimeconfig.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\bin\Debug\net6.0\cmethod.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\bin\Debug\net6.0\cmethod.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.csproj.AssemblyReference.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.AssemblyInfoInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.AssemblyInfo.cs
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.csproj.CoreCompileInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\refint\cmethod.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\cmethod.genruntimeconfig.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod\cmethod\obj\Debug\net6.0\ref\cmethod.dll
